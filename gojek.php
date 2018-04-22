@@ -52,7 +52,7 @@ for ($x=1; $x<=$loop; $x++) {
 	} else {
 		echo "$red   $x. NO HP : [ 0$no ] [ STATUS : SUCCESS ]    \n";
 		flush();
-		sleep(7);		
+		sleep(12);		
 	}
 }
 echo "$green+------------------------------------------------------+\n";
