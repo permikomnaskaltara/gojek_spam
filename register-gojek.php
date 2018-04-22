@@ -1,8 +1,8 @@
 <?php
 
 /* 
-TIKET.COM Spam Code
-C0ded by : Ardzz & Ilham HaX0r
+GOJEK Spam Code
+C0ded by : Ardzz (Z0NK3X)
 Github Ilham HaX0r : https://github.com/ilhamhax0r
 Github Ardzz : https://github.com/ardzz
 Thank's to Ilham HaX0r
