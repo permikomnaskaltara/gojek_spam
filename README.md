@@ -26,4 +26,5 @@ Setelah meng-registrasi no hp, selanjutnya spamming ke no hp tadi <br>
 php gojek.php
 ```
 Isikan no hpnya, contoh (089644017123). Lalu isikan count, contoh (3). <br>
-*HAPPY SPAMMING!*
+Tool ini support all provider :) <br>
+### *HAPPY SPAMMING!*
